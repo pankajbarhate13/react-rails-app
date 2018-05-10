@@ -1,0 +1,13 @@
+current directory: /home/bb/react_with_devise/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180508-17804-vo3ho7.rb extconf.rb
+creating Makefile
+
+current directory: /home/bb/react_with_devise/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/bb/react_with_devise/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /home/bb/react_with_devise/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
